@@ -1,7 +1,5 @@
 # 👋 Benvenuto!
 
-![GitHub Snake Animation](https://github.com/[TUO-USERNAME]/[TUO-USERNAME]/blob/output/github-snake-dark.svg)
-
 ## 🎓 Chi Sono
 
 Sono uno studente presso l'**Università degli Studi di Milano-Bicocca (UNIMIB)**, e sono un terrone/pericolo pubblico
