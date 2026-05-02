@@ -3,6 +3,7 @@
 ## 🎓 Chi Sono
 
 Mi chiamo **Carmine Pessolano** e sono uno studente presso l'**Università degli Studi di Milano-Bicocca (UNIMIB)**.
+
 ---
 
 <picture>
